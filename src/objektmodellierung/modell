@@ -1,0 +1,7 @@
+Auf der Konsole soll ein zweidimensionales Feld (z.B. 5x10) ausgegeben werden.
+Dazu werden in einem Array vom Typ Zeichen die Symbole gespeichert
+
+Die Klasse Zeichen soll das entsprechende char - Symbol enthalten
+
+Die  main - Funktion soll das Feld mit einer Methode befüllen und mit einer
+anderen Methode auf der Konsole ausgeben
