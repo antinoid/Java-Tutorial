@@ -1,0 +1,8 @@
+Anforderungen:
+    -   Fenster mit zwei Textfeldern und einem Button
+    -   Ein Textfeld dient als Eingabe, das andere als Ausgabe
+    -   Beim drücken des Buttons soll ein Event ausgelöst werden, 
+        das der Controller verarbeitet
+    -   Das Programm soll alle Werte die im Eingabe - Textfeld durch klicken des
+        Buttons übergeben werden intern aufsummieren
+    -   Die aktuelle Summe soll im Ausgabe - Textfeld ausgegeben werden

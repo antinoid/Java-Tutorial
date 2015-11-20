@@ -1,4 +1,4 @@
-package kapselung;
+package theorie.kapselung;
 
 
 /*

@@ -1,4 +1,4 @@
-package vererbung;
+package theorie.vererbung;
 
 /* Abstrakte Basis-Klasse für Auto und LkW
  * abstrakte Klassen können nicht instanziiert werden

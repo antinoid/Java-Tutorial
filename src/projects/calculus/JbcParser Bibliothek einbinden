@@ -1,0 +1,15 @@
+download - link:
+http://www.bestcode.com/assets/downloads/JbcParser_Eval.zip
+
+API:
+http://www.bestcode.com/assets/docs/JbcParser/javadoc/
+
+1.  - zip extrahieren 
+    (z.B. lib-Ordner im Standard NetBeans Workspace 
+    C:\Users\ "username" \Documents\NetBeansProjects\lib\JbcParser
+
+2.  - Rechtsclick auf Libraries des Projekts
+    - Add Jar/Folder
+    - JbcParser.jar Datei im Ordner aus 1. auswählen
+
+3.  - fertig

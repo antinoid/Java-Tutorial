@@ -1,4 +1,4 @@
-package vererbung;
+package theorie.vererbung;
 
 /*
  * Bei der Vererbung sucht man Gemeinsamkeiten zwischen verschiedenen Klassen

@@ -1,4 +1,4 @@
-package objektmodellierung;
+package projects.zeichenfeld;
 
 /**
  *

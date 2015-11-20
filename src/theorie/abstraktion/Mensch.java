@@ -1,4 +1,4 @@
-package abstraktion;
+package theorie.abstraktion;
 
 /*
  * Abstraktion beschreibt in der objektorientierten Programmierung

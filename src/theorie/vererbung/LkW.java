@@ -1,4 +1,4 @@
-package vererbung;
+package theorie.vererbung;
 
 /**
  *
