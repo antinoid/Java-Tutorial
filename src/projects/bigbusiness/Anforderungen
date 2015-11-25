@@ -6,3 +6,6 @@ Anforderungen:
     -   Das Programm soll alle Werte die im Eingabe - Textfeld durch klicken des
         Buttons übergeben werden intern aufsummieren
     -   Die aktuelle Summe soll im Ausgabe - Textfeld ausgegeben werden
+
+Für schnelle:
+    - Zweiter Button, der die eingegebene Zahl subtrahiert
