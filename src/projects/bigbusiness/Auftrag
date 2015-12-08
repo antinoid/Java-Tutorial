@@ -2,15 +2,15 @@ Auftrag:
 Schreibt eine hochprofessionelle Geschäftsanwendung im MVC - Design Pattern
 
 Zunächst wird im Team eine Analyse der Anforderungen vorgenommen.
-Auf Papier wird ein detailliertes UML - Diagramm der einzelnen Klassen mit 
+Auf Papier wird ein detailliertes UML - Diagramm der einzelnen Klassen mit
 allen Eigenschaften und Methoden (auch private).
 Als Basis hierfür dienen die Anforderungsliste und die API
 
-Der Führer übernimmt das Erstellen des GitHub - Repositories und hilft den 
+Der Führer übernimmt das Erstellen des GitHub - Repositories und hilft den
 Codern beim Schreiben des Quellcodes
 
 Coder #1 schreibt die View
 Coder #2 schreibt Controller und Model
 
-Die fertige Anwendung soll auf das GitHub Repository des Teams hochgeladen 
+Die fertige Anwendung soll auf das GitHub Repository des Teams hochgeladen
 werden
